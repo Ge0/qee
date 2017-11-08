@@ -1,0 +1,19 @@
+body {
+  background-color: #EEE;
+}
+
+p {
+  text-align: center;
+  margin-top: 200px;
+  color: #333;
+  font-family: 'Lato', sans-serif;
+}
+
+p#author {
+  margin-top: 50px;
+}
+
+#quote {
+  font-size: 30px;
+}
+

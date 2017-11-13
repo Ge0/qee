@@ -11,7 +11,9 @@ var quotes = [
   'G., quand tu fais tes impulsions faut qu\'elles ressemblent à des ' +
   'kïais, ici c\'est pas opération séduction "eiiihhh... mmmh...", hein.',
   'Alors quand on fait un Kïai on est pas chez le dentiste. Vous êtes pas ' +
-  'obligé de montrer vos dents... <i>H-Eyhh..</i>!'
+  'obligé de montrer vos dents... <i>H-Eyhh..</i>!',
+  'Après le stage, on finit au restaurant. Pour manger, hein. On termine ' +
+  'pas le stage là-bas.',
 ]
 
 window.onload = function() {

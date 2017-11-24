@@ -14,6 +14,8 @@ var quotes = [
   'obligé de montrer vos dents... <i>H-Eyhh..</i>!',
   'Après le stage, on finit au restaurant. Pour manger, hein. On termine ' +
   'pas le stage là-bas.',
+  'Quand vous faîtes des squats, serrez bien les fesses pour impliquer tous' +
+  ' les muscles. Imaginez que vous cassez une noisette entre les fesses !',
 ]
 
 window.onload = function() {

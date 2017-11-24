@@ -16,6 +16,8 @@ var quotes = [
   'pas le stage là-bas.',
   'Quand vous faîtes des squats, serrez bien les fesses pour impliquer tous' +
   ' les muscles. Imaginez que vous cassez une noisette entre les fesses !',
+  'Si tu prends un Uber Pool et qu\'il pleut, du coup tu prends ' +
+  'un Uber Pool mouillé.'
 ]
 
 window.onload = function() {
